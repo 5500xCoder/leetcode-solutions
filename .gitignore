@@ -1,0 +1,32 @@
+# VS Code
+.vscode/
+
+# Java compiled files
+*.class
+out/
+bin/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ / JetBrains
+.idea/
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.temp
+
+# Node modules (if using JS later)
+node_modules/
+
+# Python cache (optional)
+__pycache__/
+*.pyc
